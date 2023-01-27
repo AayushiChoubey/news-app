@@ -3,7 +3,7 @@
 It is a news app which can be used to grab quick daily news bites. If you are interested in news, weather, politics and sports news, NewsMonkey is for you!
 News will be present to you from different news sources and blogs all over the internet.
 News API is an amazing source of information as it provides a single API that exposes breaking news headlines and older articles from over 3,000 news sources and blogs!
-You can sign up here for a free developer plan which allows you to make 500 requests per day. One can easily exceed the limit
+
 
 <h3>Website</h3>
 
